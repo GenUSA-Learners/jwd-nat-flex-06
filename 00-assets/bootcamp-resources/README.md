@@ -2,8 +2,8 @@
 
 [Section Assignment Sheet](https://docs.google.com/spreadsheets/d/1tAZHLrrqy-USBnkU-Psd0AVmpRwfMAc86EXOtfjf-V4/edit#gid=0)
 
-[Section A Zoom Link](https://generationinitiative.zoom.us/my/priyavaidya)
-[Section B Zoom Link](https://generationinitiative.zoom.us/my/kristinawayne)
+- [Section A Zoom Link](https://generationinitiative.zoom.us/my/priyavaidya)
+- [Section B Zoom Link](https://generationinitiative.zoom.us/my/kristinawayne)
 
 [Office Hours Zoom Link](https://generationinitiative.zoom.us/my/kristinawayne)
 
