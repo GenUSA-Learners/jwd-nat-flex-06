@@ -43,8 +43,8 @@
 
 ### Resources
 
-[video: Web Development for Beginners: What does a web developer do?](https://www.youtube.com/watch?v=GEfuOMzRgXo&t=2s)
-[video: What I ACTUALLY do as a FULL STACK Developer](https://www.youtube.com/watch?v=9GHtSbRX3dY)
-[article: Day in the Life of a Full-Stack Developer](https://www.lighthouselabs.ca/en/blog/day-in-the-life-of-a-full-stack-developer)
-[article: The Day in the Life of a Web Developer](https://blog.openclassrooms.com/en/2018/10/22/day-life-web-developer/)
-[video: Web Development Explained in 10 min](https://www.youtube.com/watch?v=5YDVJaItmaY&t=2s)
+- [video: Web Development for Beginners: What does a web developer do?](https://www.youtube.com/watch?v=GEfuOMzRgXo&t=2s)
+- [video: What I ACTUALLY do as a FULL STACK Developer](https://www.youtube.com/watch?v=9GHtSbRX3dY)
+- [article: Day in the Life of a Full-Stack Developer](https://www.lighthouselabs.ca/en/blog/day-in-the-life-of-a-full-stack-developer)
+- [article: The Day in the Life of a Web Developer](https://blog.openclassrooms.com/en/2018/10/22/day-life-web-developer/)
+- [video: Web Development Explained in 10 min](https://www.youtube.com/watch?v=5YDVJaItmaY&t=2s)
