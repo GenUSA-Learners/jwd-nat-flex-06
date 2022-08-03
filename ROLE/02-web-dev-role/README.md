@@ -13,25 +13,28 @@
 
 - A Junior Developer programs software and writes, reviews, and makes improvements to code in order to create or support products or services.
 
-- The primary responsibilities of a Junior Developer include:
-	1. Scope a problem and develop solutions (50% of time)
-	2. Test & Finalize solutions (10-20% time)
-	3. Fix errors ( 20-30% of time)
-	4. Coordinate / communicate with team and other stakeholders (10% of time)
-	5. Learn & Teach new technologies and skills (10% of time)
+**The primary responsibilities of a Junior Developer include:**
 
-- A successful Junior Developer will embody the following qualities:
-	* Efficiently solves complex or detailed problems
-	* Creates high quality code that is easily readable and reusable by other developers
-	* Actively problem solves issues as they arise
-	* Is able to quickly articulate their own knowledge gaps and find the appropriate resource for support
-	* Enjoys working with a team to overcome challenges
-	* Is motivated to learn new information quickly
+1. Scope a problem and develop solutions (50% of time)
+2. Test & Finalize solutions (10-20% time)
+3. Fix errors ( 20-30% of time)
+4. Coordinate / communicate with team and other stakeholders (10% of time)
+5. Learn & Teach new technologies and skills (10% of time)
 
-- Common challenges of the Junior Developer role include:
-	* Unpredictable hours
-	* Challenging, time-sensitive work
-	* Physical demands of sitting for hours at a Computer
+**A successful Junior Developer will embody the following qualities:**
+
+- Efficiently solves complex or detailed problems
+- Creates high quality code that is easily readable and reusable by other developers
+- Actively problem solves issues as they arise
+- Is able to quickly articulate their own knowledge gaps and find the appropriate resource for support
+- Enjoys working with a team to overcome challenges
+- Is motivated to learn new information quickly
+
+**Common challenges of the Junior Developer role include:**
+
+- Unpredictable hours
+- Challenging, time-sensitive work
+- Physical demands of sitting for hours at a Computer
 
 ## Behavioral Skills and Mindsets
 
