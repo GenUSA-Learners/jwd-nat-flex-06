@@ -1,14 +1,12 @@
-# Generation USA
+# ROLE 1 - Introduction to the Curriculum
 
-## Junior Web Developer Curriculum
-
-### About the Program
+## About the Generation USA Junior Web Developer Program
 
 - Full time: 11 weeks, 8 hours per day
 - Part time: 21 weeks, 9 hours of synchronous content and 9-10 hours of asynchronous content each week
 - Fully online
 
-### Role Description
+## Role Description
 
 This curriculum prepares participants for the front-end Junior Web Developer role. Junior Web Developers work in a range of sectors (e.g. banking, non-profit, news, etc.).
 
@@ -20,7 +18,7 @@ Junior Web Developers generally perform the following tasks:
 4. Coordinate / communicate with the team and other stakeholders *(10% of the time)*
 5. Learning & Teaching new technologies and skills *(10% of the time)*
 
-### Performance Goals
+## Performance Goals
 
 1. Apply structured problem solving techniques to resolve project related issues
 2. Use coding best practices to execute assigned tasks
@@ -37,7 +35,7 @@ Junior Web Developers generally perform the following tasks:
   take a close look at the syllabus before demonstrating interest
   in this course (see more details on the following pages).
 
-### Behavioral Skills & Mindsets (BSMs)
+## Behavioral Skills & Mindsets (BSMs)
 
 ***Behavioral Skills***
 
@@ -69,7 +67,7 @@ Junior Web Developers generally perform the following tasks:
   give and receive feedback on your development in these
   areas throughout the course!
 
-### Key Technical Skills
+## Key Technical Skills
 
 1. `ROLE` **Introduction to the Role**
  *a.* Introduction to the Curriculum
@@ -99,7 +97,7 @@ Junior Web Developers generally perform the following tasks:
  *e.* Building Interactive JavaScript Websites with DOM Manipulation
  *f.* Unit Testing with Mocha
 
-### Employment Essentials
+## Employment Essentials
 
 - LinkedIn profile
 - Resume & Cover Letter

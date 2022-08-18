@@ -1,4 +1,4 @@
-# Effective Workplace Communication and Collaboration
+# ROLE 3 - Effective Workplace Communication and Collaboration
 
 In this session, participants will learn about the importance of communication and collaboration in their roles as Junior Developers. They will learn how to adapt their communication to different scenarios in the work environment, how to communicate effectively with their peers and supervisors, and how to receive feedback from their team to improve their work.
 

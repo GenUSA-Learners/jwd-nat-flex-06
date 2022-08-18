@@ -1,4 +1,4 @@
-# Staying Up to Date
+# ROLE 4 - Staying Up to Date
 
 In this session, you will reflect on the importance of staying up-to-date as a Junior Developer. you will identify resources you can use to keep updated and will create a personal update plan.
 
