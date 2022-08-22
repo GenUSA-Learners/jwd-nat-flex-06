@@ -21,7 +21,7 @@ Below is a list of HTML tags that are self-closing for reference:
 
 * *In HTML5, the `/` is optional for these items
 
-## Links
+## Helpful Links
 
 * [CC Cheatsheet: Elements and Structure](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
 * [HTML Cheatsheet](https://htmlcheatsheet.com/)
@@ -36,7 +36,7 @@ Below is a list of HTML tags that are self-closing for reference:
 * Semantics
   * [Guide](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-## Videos
+## Helpful Videos
 
 * [Learn HTML in 12 minutes](https://www.youtube.com/watch?v=bWPMSSsVdPk)
 * [HTML Tutorial for Beignners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
