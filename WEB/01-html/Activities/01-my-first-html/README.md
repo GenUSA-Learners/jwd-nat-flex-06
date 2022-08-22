@@ -23,3 +23,15 @@ Work with your group to implement the following:
   * Create a table with 2 columns (animal class and animal name) and 4 rows of animals.
   * Use an alternate way of separating links without line breaks.
   * Embed a Youtube video of your favorite band/musician.
+
+Use [Google](https://www.google.com) to research this if you get stuck.
+
+## Helpful Links
+
+Refer to the documentation:
+
+[HTML basics - Learn we development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+[HTML: HyperText Markup Language | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+---
