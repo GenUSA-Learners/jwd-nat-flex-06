@@ -18,7 +18,6 @@ Work with your group to implement the following:
 
 * HINT: You should be looking up at the screen pretty often :P
 
-* Bonus:
   * Create an ordered list of steps to make a sandwich.
   * Create an unordered list of 5 bands/musicians you like.
   * Create a table with 2 columns (animal class and animal name) and 4 rows of animals.
