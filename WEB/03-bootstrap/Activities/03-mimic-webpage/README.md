@@ -7,7 +7,7 @@
     - copy the CSS link and paste it in the designated spot in the index.html
 
 - Grab the JS "Bundle" `<script>` from the same page
-    - copy the Bundle and paste it in the designated spot in the index.html 
+    - copy the Bundle and paste it in the designated spot in the index.html
 
 # Recreate a webpage building it step by step
 
@@ -18,4 +18,4 @@
 ![step-2](./assets/step-2.png)
 
 - Step 3:
-![step-3](./assets/step-3.png)
+![step-3](./assetsstep-3.png)
