@@ -1,7 +1,5 @@
 ## Mimic-webpage
 
-- Make sure to start by creating a new branch for this activity
-
 - Grab the "CSS" `<link>` from [bootstrap](https://getbootstrap.com/)
     - click "Get Started" to find what you need
     - copy the CSS link and paste it in the designated spot in the index.html
@@ -18,4 +16,4 @@
 ![step-2](./assets/step-2.png)
 
 - Step 3:
-![step-3](./assetsstep-3.png)
+![step-3](./assets/step-3.png)
