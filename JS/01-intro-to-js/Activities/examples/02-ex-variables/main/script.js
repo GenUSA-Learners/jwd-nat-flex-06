@@ -18,8 +18,3 @@ console.log("My name is ");
 
 // Logs "My name is Tonya"
 console.log("My name is " + studentName);
-
-
-let headerElement = document.getElementById('header');
-
-headerElement.style.color = 'blue';
