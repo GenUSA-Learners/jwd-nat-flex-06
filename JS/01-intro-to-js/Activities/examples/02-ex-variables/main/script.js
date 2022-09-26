@@ -6,7 +6,7 @@ var studentName = "Abdul";
 var studentAge = 32;
 
 // To re-assign a variable, use only the variable's name
-studentName = "Tonya";
+studentName = "Tonya" + "Harding";
 studentAge = 52;
 
 // To access a value stored in a variable, use the variable's name
@@ -18,3 +18,8 @@ console.log("My name is ");
 
 // Logs "My name is Tonya"
 console.log("My name is " + studentName);
+
+
+let headerElement = document.getElementById('header');
+
+headerElement.style.color = 'blue';
