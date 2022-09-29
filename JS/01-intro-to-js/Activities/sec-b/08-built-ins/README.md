@@ -3,7 +3,7 @@
 * Start by linking your js file to your html file
 * Open in browser/live server so you can see your changes in the console
 
-* Print a random integer (whole number) between 50 (inclusive) and 100 (exclusive)  to the console
+* Print a random integer (whole number) between 50 (inclusive) and 100 (exclusive) to the console
 
 ## Helpful Links
 

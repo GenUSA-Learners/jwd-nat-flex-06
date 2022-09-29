@@ -6,10 +6,33 @@
 
 ## Videos
 
-- [Functions with Mosh](https://www.youtube.com/watch?v=N8ap4k_1QEQ)
-- [JavaScript Scope](https://www.youtube.com/watch?v=hTU1OSbnov8)
-- [Another Scope Video](https://m.youtube.com/watch?v=SBjf9-WpLac)
-- [Arrays Vid](https://www.youtube.com/watch?v=HgJV0dpmqZE)
+- **Functions**
+  - [Functions with Mosh](https://www.youtube.com/watch?v=N8ap4k_1QEQ)
+
+- **Scope**
+  - [JavaScript Local & Global Scope | Dani Krossing](https://www.youtube.com/watch?v=hTU1OSbnov8)
+  - [Understanding Scope](https://m.youtube.com/watch?v=SBjf9-WpLac)
+
+- **Arrays & Array Methods**
+  - [JavaScript Arrays | Mosh](https://www.youtube.com/watch?v=oigfaZ5ApsM&t=115s)
+  - [JavaScript Arrays Crash Course | Web Dev Simplified](https://www.youtube.com/watch?v=7W4pQQ20nJg)
+  - [8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
+  - [Every ES6 Array Method you must know to be a JS Expert](https://www.youtube.com/watch?v=HgJV0dpmqZE)
+  - [JavaScript Array Reduce in 10 Minutes | Web Dev Simplified](https://www.youtube.com/watch?v=s1XVfm5mIuU)
+  - [JavaScript array.reduce() | Mosh](https://www.youtube.com/watch?v=g1C40tDP0Bk&t=196s)
+
+- **Loops**
+  - [JavaScript Loops | Mosh](https://www.youtube.com/watch?v=s9wW2PpJsmQ)
+  - [Learn JavaScript Loops in 10 Minutes](https://www.youtube.com/watch?v=LuAWFium1nk)
+
+- **Higher Order Functions**
+  - [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+  - [What are Higher Order Functions?](https://www.youtube.com/watch?v=9E8Ih8sVy3M)
+  - [JavaScript Factory Functions](https://www.youtube.com/watch?v=jpegXpQpb3o)
+  - [JavaScript Constructor Functions](https://www.youtube.com/watch?v=23AOrSN-wmI&t=1s)
+
+- **Iterators**
+  - []()
 
 ## Links
 
@@ -20,6 +43,7 @@
   - [JS Functions - Tutorials Teacher](https://www.tutorialsteacher.com/javascript/javascript-function)
   - [Functions - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_Scope)
   - [ES6 Arrow Functions - FreeCodeCamp](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
+  - [Introduction to Functional JavaScript](https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a)
 
 - Scope
   - [JavaScript: Introduction to Scope - dev](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)
@@ -31,7 +55,11 @@
   - [Array Cheatsheet 1 - Dev](https://dev.to/vincenius/javascript-array-functions-cheatsheet-1c15)
   - [Array Cheatsheet 2 - Dev](https://dev.to/atila/array-cheatsheet-4me0)
 
+- Higher Order Functions
+  - [Higher Order Functions. Closures, function factories, common factory pattern functions](https://medium.com/functional-javascript/higher-order-functions-78084829fff4)
+
 - Loops & Iterators
+  - [Looping vs Iteration in JavaScript](https://medium.com/geekculture/looping-vs-iteration-in-javascript-a-beginners-guide-to-navigating-both-571ecdfd9cfe#:~:text=Looping%20is%20when%20we%20want,or%20properties%20of%20an%20object.)
   - [For Loop - w3](https://www.w3schools.com/js/js_loop_for.asp)
   - [Iteration - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
