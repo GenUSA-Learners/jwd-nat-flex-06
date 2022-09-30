@@ -2,11 +2,11 @@
 
 ## Homework + Learning Objectives
 
-### **Learn JavaScript** in Codecademy
+### [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) in Codecademy
 
 [***Introduction to JavaScript*** (30 min)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/intro)
 
-- Objective: Describe the JavaScript programming language and its characteristics.
+- Objective: Describe the JavaScript programming language and its characteristics
 
 [***Variables*** (4 hr)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/variables/exercises/intro-variables)
 
