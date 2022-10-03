@@ -4,7 +4,7 @@
 2. Refactor the function declaration to use function expression syntax
 3. Refactor the function expression to use ES6 arrow function syntax
 
-### Helpful Links
+## Helpful Links
 
 - Functions
   - [Function Declarations](https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/function-declaration)
