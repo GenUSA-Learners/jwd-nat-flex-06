@@ -20,8 +20,22 @@ console.log(Number.MIN_SAFE_INTEGER);
 // METHODS
 
 // String methods
-console.log('hello'.toUpperCase()); // Prints 'HELLO'
-console.log('Hey'.startsWith('H')); // Prints true
+
+// .REPLACE
+	//Replaces "String" with "World" and returns new string
+	var myNewString = myString.replace("String", "World");
+	console.log(myNewString);
+
+	//The orginal string is unchanged
+	console.log(myString);
+
+// .TOUPPERCASE
+	console.log('hello'.toUpperCase()); // Prints 'HELLO'
+
+// .STARTSWITH
+	console.log('Hey'.startsWith('H')); // Prints true
+
+
 
 // Array methods
 

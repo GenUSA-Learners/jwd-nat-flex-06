@@ -14,14 +14,21 @@ for (let i = 0; i < zooAnimals.length; i++) {
     console.log("I am going to zoo to see " + zooAnimals[i] + ".");
 }
 
+const greeting = "Hello World";
+
+//To determine how many times the loop should execute, we use the array's length
+for (let i = 0; i < 5; i++) {
+    console.log(greeting);
+}
+
 
 
 // While Loop
 
 // For Loop to While Loop conversion
 
-// A for loop that prints 1, 2, and 3
-for (let counterOne = 1; counterOne < 4; counterOne++){
+  // A for loop that prints 1, 2, and 3
+  for (let counterOne = 1; counterOne < 4; counterOne++){
     console.log(counterOne);
   }
 
@@ -33,15 +40,15 @@ for (let counterOne = 1; counterOne < 4; counterOne++){
   }
 
 // Do...while Loop
-let countString = '';
-let i = 0;
+  let countString = '';
+  let i = 0;
 
-do {
-  countString = countString + i;
-  i++;
-} while (i < 5);
+  do {
+    countString = countString + i;
+    i++;
+  } while (i < 5);
 
-console.log(countString);
+  console.log(countString);
 
 // the Break keyword
 for (let i = 0; i < 99; i++) {
@@ -63,4 +70,3 @@ for (let i = 0; i < 99; i++) {
 // OTHER LOOPS
 // For...in Loop
 // For...of Loop
-// forEach Loop

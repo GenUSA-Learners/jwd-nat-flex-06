@@ -13,26 +13,24 @@
   - [JavaScript Local & Global Scope | Dani Krossing](https://www.youtube.com/watch?v=hTU1OSbnov8)
   - [Understanding Scope](https://m.youtube.com/watch?v=SBjf9-WpLac)
 
-- **Arrays & Array Methods**
+- **Arrays**
   - [JavaScript Arrays | Mosh](https://www.youtube.com/watch?v=oigfaZ5ApsM&t=115s)
   - [JavaScript Arrays Crash Course | Web Dev Simplified](https://www.youtube.com/watch?v=7W4pQQ20nJg)
+
+- **Loops & Iterators**
+  - [JavaScript Loops | Mosh](https://www.youtube.com/watch?v=s9wW2PpJsmQ)
+  - [Learn JavaScript Loops in 10 Minutes](https://www.youtube.com/watch?v=LuAWFium1nk)
   - [8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
   - [Every ES6 Array Method you must know to be a JS Expert](https://www.youtube.com/watch?v=HgJV0dpmqZE)
   - [JavaScript Array Reduce in 10 Minutes | Web Dev Simplified](https://www.youtube.com/watch?v=s1XVfm5mIuU)
   - [JavaScript array.reduce() | Mosh](https://www.youtube.com/watch?v=g1C40tDP0Bk&t=196s)
 
-- **Loops**
-  - [JavaScript Loops | Mosh](https://www.youtube.com/watch?v=s9wW2PpJsmQ)
-  - [Learn JavaScript Loops in 10 Minutes](https://www.youtube.com/watch?v=LuAWFium1nk)
-
 - **Higher Order Functions**
+  - [Higher Order Functions - JavaScript Tutorial](https://www.youtube.com/watch?v=0aKZvNNf8BA)
   - [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE)
   - [What are Higher Order Functions?](https://www.youtube.com/watch?v=9E8Ih8sVy3M)
   - [JavaScript Factory Functions](https://www.youtube.com/watch?v=jpegXpQpb3o)
   - [JavaScript Constructor Functions](https://www.youtube.com/watch?v=23AOrSN-wmI&t=1s)
-
-- **Iterators**
-  - []()
 
 ## Links
 
@@ -59,7 +57,7 @@
   - [Higher Order Functions. Closures, function factories, common factory pattern functions](https://medium.com/functional-javascript/higher-order-functions-78084829fff4)
 
 - Loops & Iterators
-  - [Looping vs Iteration in JavaScript](https://medium.com/geekculture/looping-vs-iteration-in-javascript-a-beginners-guide-to-navigating-both-571ecdfd9cfe#:~:text=Looping%20is%20when%20we%20want,or%20properties%20of%20an%20object.)
+  - [Looping vs Iteration in JavaScript](https://medium.com/geekculture/looping-vs-iteration-in-javascript-a-beginners-guide-to-navigating-both-571ecdfd9cfe)
   - [For Loop - w3](https://www.w3schools.com/js/js_loop_for.asp)
   - [Iteration - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 

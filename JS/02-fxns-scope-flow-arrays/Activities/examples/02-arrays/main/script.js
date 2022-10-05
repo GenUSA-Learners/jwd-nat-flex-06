@@ -10,7 +10,7 @@ console.log(groceryList);
 
 let condiments = ['Ketchup', 'Soy Sauce', 'Sriracha'];
 
-// Mutation possible
+// Accessing and mutating
 condiments[0] = 'Mayo';
 //console.log(condiments);//=> [ 'Mayo', 'Soy Sauce', 'Sriracha' ]
 
@@ -20,12 +20,6 @@ condiments = ['Mayo'];
 
 // Re-declaring not possible
 //let condiments = [] //=> SyntaxError: Identifier 'condiments' has already been declared
-
-
-
-
-
-
 
 
 
