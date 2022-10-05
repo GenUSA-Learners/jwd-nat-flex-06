@@ -12,14 +12,14 @@ let condiments = ['Ketchup', 'Soy Sauce', 'Sriracha'];
 
 // Accessing and mutating
 condiments[0] = 'Mayo';
-//console.log(condiments);//=> [ 'Mayo', 'Soy Sauce', 'Sriracha' ]
+console.log(condiments);//=> [ 'Mayo', 'Soy Sauce', 'Sriracha' ]
 
 // Re-assigning possible
 condiments = ['Mayo'];
-//console.log(condiments); //=> [ 'Mayo' ]
+console.log(condiments); //=> [ 'Mayo' ]
 
 // Re-declaring not possible
-//let condiments = [] //=> SyntaxError: Identifier 'condiments' has already been declared
+let condiments = [] //=> SyntaxError: Identifier 'condiments' has already been declared
 
 
 
@@ -30,12 +30,12 @@ const utensils = ['Fork', 'Chopsticks', 'Spork'];
 
 // Mutation Possible
 utensils[2] = 'Spoon'
-//console.log(utensils); //=> [ 'Fork', 'Chopsticks', 'Spoon' ]
+console.log(utensils); //=> [ 'Fork', 'Chopsticks', 'Spoon' ]
 utensils.length = 0
-//console.log(utensils); //=> [ ]
+console.log(utensils); //=> [ ]
 
 // Re-assigning not possible
-//utensils = ['Spoon']; //=> TypeError: Assignment to constant variable.
+utensils = ['Spoon']; //=> TypeError: Assignment to constant variable.
 
 // Re-declaring not possible
-//const utensils = {} //=> SyntaxError: Identifier 'condiments' has already been declared
+const utensils = {} //=> SyntaxError: Identifier 'condiments' has already been declared
