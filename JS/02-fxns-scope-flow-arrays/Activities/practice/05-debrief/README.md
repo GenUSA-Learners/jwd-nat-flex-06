@@ -17,6 +17,8 @@
 
 ## 🏆 Bonus
 
+1. Password Generator: https://github.com/zchalk/password-generator-learner-copy
+
 2. FizzBuzz Function
    * Using the Instructions below, write a function that prints numbers from 1 to an upper limit. That upper limit should be passed into your function as an argument.
     * Ex. fizzBuzz(15) should print the fizzBuzz pattern described below from 1 to the upper limit of 15.
