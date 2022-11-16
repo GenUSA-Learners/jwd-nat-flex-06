@@ -1,8 +1,8 @@
 let stocks = {
-  fruit: ["strawberry", "grapes", "banana", "apple"],
-  liquid: ["water", "ice"],
-  holder: ["cone", "cup", "stick"],
-  toppings: ["chocolate", "peanuts"],
+  fruit: ['strawberry', 'grapes', 'banana', 'apple'],
+  liquid: ['water', 'ice'],
+  holder: ['cone', 'cup', 'stick'],
+  toppings: ['chocolate', 'peanuts'],
 };
 
 let isShopOpen = true;
@@ -17,7 +17,7 @@ let order = (time, work) => {
         resolve(work());
       }, time);
     } else {
-      reject(console.log("Our shop is closed"));
+      reject(console.log('Our shop is closed'));
     }
   });
 };
@@ -26,5 +26,39 @@ let order = (time, work) => {
 
 // Use the image located in the Images folder to view the steps.
 
-
 // Your code goes here
+
+order(2000, () => {
+  console.log('Placing order!');
+  console.log(`Selecting ${stocks.fruit[1]}!`);
+})
+  .then(() => {
+    return order(2000, () => {
+      console.log('Cutting the fruit!');
+    });
+  })
+  .then(() => {
+    return order(1000, () => {
+      console.log(`Adding ${stocks.liquid[0]} and ${stocks.liquid[1]}!`);
+    });
+  })
+  .then(() => {
+    return order(1000, () => {
+      console.log('Start the machine!');
+    });
+  })
+  .then(() => {
+    return order(2000, () => {
+      console.log('Selecting the container!');
+    });
+  })
+  .then(() => {
+    return order(3000, () => {
+      console.log(`Select ${stocks.toppings[1]}!`);
+    });
+  })
+  .then(() => {
+    return order(2000, () => {
+      console.log('Serve the ice cream!');
+    });
+  })

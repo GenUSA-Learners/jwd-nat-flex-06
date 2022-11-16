@@ -19,6 +19,13 @@ let order = (fruitName, callProduction) => {
 
 let production = () => {
   // Your code goes here
+  setTimeout(() => {
+    console.log('Cutting the fruit');
+  }, 2000);
+  setTimeout(() => {
+    console.log(`Adding ${stocks.liquid[0]} and ${stocks.liquid[1]}`);
+  }, 3000);
 };
 
 // Call the order fucntion below
+order(0, production);

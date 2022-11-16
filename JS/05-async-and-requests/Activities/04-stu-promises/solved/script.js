@@ -32,11 +32,6 @@ order(2000, () => {
   console.log(`${stocks.fruit[0]} was selected`);
 })
   .then(() => {
-    return order(0000, () => {
-      console.log("Production has started");
-    });
-  })
-  .then(() => {
     return order(2000, () => {
       console.log(`The fruit has been cut`);
     });
