@@ -21,7 +21,6 @@ var x = 10;
 
 
 
-
 // More Assignment Operators
 
 let number = 100;
@@ -36,9 +35,18 @@ console.log(10 === '10'); // false
 console.log(10 == '10'); // true
 
 
+// Not Operator
+
+let x = 5;
+let y = 7;
+x != y; // x is not equal to y
+
+// this operator comes in handy with conditionals and loops
+
+
 // Incrementors
 
-let secondNumber = 45;
+let  = 45;
 secondNumber ++;
 
 console.log(secondNumber); // Output: 46
