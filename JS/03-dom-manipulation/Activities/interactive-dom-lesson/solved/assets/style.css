@@ -1,0 +1,118 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+.container {
+  width: 95vw;
+  margin: 0 auto;
+  text-align: center;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+}
+header {
+  background-image: linear-gradient(#099cf1, #045788);
+  box-shadow: 3px 3px 5px #333;
+  color: #fff;
+  min-height: 6rem;
+  padding: 15px;
+}
+header li {
+  list-style: none;
+  display: inline;
+  margin: 0 15px;
+  font-size: 1.5rem;
+}
+#main-h1 {
+  padding: 2.5rem 0 0 5px;
+  color: #fff;
+  font-size: 3.7rem;
+  text-shadow: 3px 3px 3px #333;
+}
+#change-text-color {
+  color: #fff;
+  font-size: 1.5rem;
+  background-image: linear-gradient(#fd0808, #a10202);
+  height: 2.5rem;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 2rem;
+}
+#app-main-section {
+  min-height: 42rem;
+  background: url('./images/showcase-img-lg.jpg') no-repeat 0 -271px;
+  background-size: cover;
+}
+#app-main-section-background {
+  background-color: rgba(220, 220, 220, 0.5);
+}
+#app-main-section {
+  text-align: center;
+}
+#app-newsletter-section {
+  background-image: linear-gradient(#099cf1, #045788);
+  min-height: 5rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+#app-newsletter-section input[type='email'] {
+  height: 2rem;
+  width: 14rem;
+  padding: 5px;
+}
+#subscribe-button {
+  width: 11rem;
+  height: 2rem;
+  color: #fff;
+  background-image: linear-gradient(#fa0788, #750249);
+}
+#app-card-section {
+  margin: 5rem auto;
+}
+.card-btn {
+  background-image: linear-gradient(#fa0788, #750249);
+  width: 10rem;
+  height: 2rem;
+  margin: 1rem;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+#add-element {
+  background-image: linear-gradient(#fa0788, #750249);
+  width: 10rem;
+  height: 2rem;
+  margin: 1rem;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+.footer {
+  min-height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 5px;
+}
+footer {
+  background-image: linear-gradient(#fa0788, #750249);
+  min-height: 5rem;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .flex-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
