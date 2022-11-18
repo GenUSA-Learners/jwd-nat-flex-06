@@ -15,7 +15,7 @@
 `Boolean`
 
 - This data type only has two possible values — either `true` or `false`.
-
+image.png
 `Null`
 
 - This data type represents the intentional absence of a value, and is represented by the keyword null.
