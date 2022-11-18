@@ -5,7 +5,7 @@ If you'd like to substitute Mocha and Chai with the Jest framework, feel free to
 ## Getting Started
 
 1. Select one group member to be the coder for the group, the coder will follow the following instructions with the help of the group:
-    * Familiarize yourself with the code first in `app.js`. Then move to the `test` folder and come up with some simple tests in `app.test.js` that ensure we will get the output we expect and set up for further test-driven development. Don't forget to run the following bash command to install the mocha and chai packages before running tests:
+    * Familiarize yourself with the code first in `app.js`. Then move to the `test` folder and come up with some simple tests in `app.test.js` that ensure we will get the output we expect and set up for further test-driven development. Don't forget to run the following bash command to install the mocha and chai packages before running tests - you'll need to navigate to the `unsolved` folder in your terminal before running these commands:
 
     ```bash
     npm init -y
