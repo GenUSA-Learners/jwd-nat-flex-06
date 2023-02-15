@@ -1,5 +1,7 @@
 # PROG 1 - Welcome to Codecademy
 
+Participants will get comfortable using the codecademy interactive coding platform and will write their first lines of code.
+
 ## Homework + Learning Objectives
 
 ### **Welcome to Codecademy**
